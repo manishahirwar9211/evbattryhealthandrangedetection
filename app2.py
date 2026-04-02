@@ -10,7 +10,7 @@ st.set_page_config(page_title="EV Battery System", layout="wide")
 # ------------------------------
 # Title
 # ------------------------------
-st.title("🚗 EV Battery Monitoring Dashboard")
+st.title("EV Battery Monitoring Dashboard")
 st.markdown("### 🔋 AI-Based Range & Battery Health Prediction")
 
 # ------------------------------
